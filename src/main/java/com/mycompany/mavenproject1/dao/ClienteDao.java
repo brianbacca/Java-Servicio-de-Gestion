@@ -95,7 +95,7 @@ public class ClienteDao {
        return listado;
      
     }
-    
+    //----
       public void eliminar(String id){
     
         try {
